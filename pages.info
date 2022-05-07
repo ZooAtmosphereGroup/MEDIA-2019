@@ -1,0 +1,249 @@
+{
+    ".git": {
+        "author": "",
+        "date": ".git",
+        "path_author": "/.git",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "HEAD": "HEAD",
+            "config": "config",
+            "description": "description",
+            "index": "index",
+            "packed-refs": "packed-refs"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    ".idea": {
+        "author": "",
+        "date": ".idea",
+        "path_author": "/.idea",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "MEDIA-2019.iml": "MEDIA-2019.iml",
+            "misc.xml": "misc.xml",
+            "modules.xml": "modules.xml",
+            "vcs.xml": "vcs.xml",
+            "workspace.xml": "workspace.xml"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "02": {
+        "author": "",
+        "date": "02",
+        "path_author": "/.git/objects/02",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "57f2214dff0ebebfd23331c2a16c8968ca00e6": "57f2214dff0ebebfd23331c2a16c8968ca00e6"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "20190911LinSiDan": {
+        "author": "LinSiDan",
+        "date": "20190911",
+        "path_author": "/201909/20190911LinSiDan",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "东方白鹳 (2).jpg": "东方白鹳 (2).jpg",
+            "东方白鹳.jpg": "东方白鹳.jpg",
+            "亚洲象.jpg": "亚洲象.jpg",
+            "卷羽鹈鹕 (2).jpg": "卷羽鹈鹕 (2).jpg",
+            "卷羽鹈鹕 (3).jpg": "卷羽鹈鹕 (3).jpg",
+            "卷羽鹈鹕.jpg": "卷羽鹈鹕.jpg",
+            "孔雀.jpg": "孔雀.jpg",
+            "小熊猫.jpg": "小熊猫.jpg",
+            "小爪水獭 (2).jpg": "小爪水獭 (2).jpg",
+            "小爪水獭.jpg": "小爪水獭.jpg",
+            "山魈_雄.jpg": "山魈_雄.jpg",
+            "梅花鹿_雄.jpg": "梅花鹿_雄.jpg",
+            "梅花鹿_雌.jpg": "梅花鹿_雌.jpg",
+            "毛冠鹿.jpg": "毛冠鹿.jpg",
+            "浣熊 (2).jpg": "浣熊 (2).jpg",
+            "浣熊.jpg": "浣熊.jpg",
+            "火烈鸟 (2).jpg": "火烈鸟 (2).jpg",
+            "火烈鸟.jpg": "火烈鸟.jpg",
+            "猕猴 (2).jpg": "猕猴 (2).jpg",
+            "猕猴 (3).jpg": "猕猴 (3).jpg",
+            "猕猴.jpg": "猕猴.jpg",
+            "环尾狐猴.jpg": "环尾狐猴.jpg",
+            "疣鼻天鹅.jpg": "疣鼻天鹅.jpg",
+            "白琵鹭.jpg": "白琵鹭.jpg",
+            "白颊长臂猿_雄 (2).jpg": "白颊长臂猿_雄 (2).jpg",
+            "白颊长臂猿_雄.jpg": "白颊长臂猿_雄.jpg",
+            "白颊长臂猿_雌、幼 (2).jpg": "白颊长臂猿_雌、幼 (2).jpg",
+            "白颊长臂猿_雌、幼 (3).jpg": "白颊长臂猿_雌、幼 (3).jpg",
+            "白颊长臂猿_雌、幼.jpg": "白颊长臂猿_雌、幼.jpg",
+            "秃鹫.jpg": "秃鹫.jpg",
+            "细尾獴.jpg": "细尾獴.jpg",
+            "绿海龟.jpg": "绿海龟.jpg",
+            "缅甸蟒？.jpg": "缅甸蟒？.jpg",
+            "美洲豹 (2).jpg": "美洲豹 (2).jpg",
+            "美洲豹 (3).jpg": "美洲豹 (3).jpg",
+            "美洲豹.jpg": "美洲豹.jpg",
+            "老虎.jpg": "老虎.jpg",
+            "耳廓狐.jpg": "耳廓狐.jpg",
+            "薮猫.jpg": "薮猫.jpg",
+            "虎 (10).jpg": "虎 (10).jpg",
+            "虎 (2).jpg": "虎 (2).jpg",
+            "虎 (3).jpg": "虎 (3).jpg",
+            "虎 (4).jpg": "虎 (4).jpg",
+            "虎 (5).jpg": "虎 (5).jpg",
+            "虎 (6).jpg": "虎 (6).jpg",
+            "虎 (7).jpg": "虎 (7).jpg",
+            "虎 (8).jpg": "虎 (8).jpg",
+            "虎 (9).jpg": "虎 (9).jpg",
+            "虎.jpg": "虎.jpg",
+            "赤腹袋鼠.jpg": "赤腹袋鼠.jpg",
+            "赤麻鸭.jpg": "赤麻鸭.jpg",
+            "金刚鹦鹉 (1).jpg": "金刚鹦鹉 (1).jpg",
+            "金刚鹦鹉 (10).jpg": "金刚鹦鹉 (10).jpg",
+            "金刚鹦鹉 (11).jpg": "金刚鹦鹉 (11).jpg",
+            "金刚鹦鹉 (12).jpg": "金刚鹦鹉 (12).jpg",
+            "金刚鹦鹉 (2).jpg": "金刚鹦鹉 (2).jpg",
+            "金刚鹦鹉 (3).jpg": "金刚鹦鹉 (3).jpg",
+            "金刚鹦鹉 (4).jpg": "金刚鹦鹉 (4).jpg",
+            "金刚鹦鹉 (5).jpg": "金刚鹦鹉 (5).jpg",
+            "金刚鹦鹉 (6).jpg": "金刚鹦鹉 (6).jpg",
+            "金刚鹦鹉 (7).jpg": "金刚鹦鹉 (7).jpg",
+            "金刚鹦鹉 (8).jpg": "金刚鹦鹉 (8).jpg",
+            "金刚鹦鹉 (9).jpg": "金刚鹦鹉 (9).jpg",
+            "金刚鹦鹉.jpg": "金刚鹦鹉.jpg",
+            "金钱豹 (2).jpg": "金钱豹 (2).jpg",
+            "金钱豹.jpg": "金钱豹.jpg",
+            "非洲狮 (2).jpg": "非洲狮 (2).jpg",
+            "非洲狮 (3).jpg": "非洲狮 (3).jpg",
+            "非洲狮 (4).jpg": "非洲狮 (4).jpg",
+            "非洲狮 (5).jpg": "非洲狮 (5).jpg",
+            "非洲狮 (6).jpg": "非洲狮 (6).jpg",
+            "非洲狮.jpg": "非洲狮.jpg",
+            "马来熊.jpg": "马来熊.jpg",
+            "鸳鸯 (2).jpg": "鸳鸯 (2).jpg",
+            "鸳鸯.jpg": "鸳鸯.jpg",
+            "鸳鸯_雄.jpg": "鸳鸯_雄.jpg",
+            "鸿雁.jpg": "鸿雁.jpg",
+            "黄麂 (2).jpg": "黄麂 (2).jpg",
+            "黄麂 (3).jpg": "黄麂 (3).jpg",
+            "黄麂.jpg": "黄麂.jpg"
+        },
+        "remark": "林嗣淡, 拍摄于2019.09-11",
+        "thumbnail": "黄麂 (2).jpg",
+        "title": "精彩回顾01"
+    },
+    "MEDIA-2019": {
+        "author": "19",
+        "date": "MEDIA-20",
+        "path_author": "",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "20190911LinSiDan.md": "20190911LinSiDan.md",
+            "_config.yml": "_config.yml",
+            "pages.info": "pages.info",
+            "site.info": "site.info"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "a3": {
+        "author": "",
+        "date": "a3",
+        "path_author": "/.git/objects/a3",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "8151d752bbe60724fdcc880985006db4e08293": "8151d752bbe60724fdcc880985006db4e08293"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "heads": {
+        "author": "",
+        "date": "heads",
+        "path_author": "/.git/logs/refs/heads",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "main": "main"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "hooks": {
+        "author": "",
+        "date": "hooks",
+        "path_author": "/.git/hooks",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "applypatch-msg.sample": "applypatch-msg.sample",
+            "commit-msg.sample": "commit-msg.sample",
+            "fsmonitor-watchman.sample": "fsmonitor-watchman.sample",
+            "post-update.sample": "post-update.sample",
+            "pre-applypatch.sample": "pre-applypatch.sample",
+            "pre-commit.sample": "pre-commit.sample",
+            "pre-merge-commit.sample": "pre-merge-commit.sample",
+            "pre-push.sample": "pre-push.sample",
+            "pre-rebase.sample": "pre-rebase.sample",
+            "pre-receive.sample": "pre-receive.sample",
+            "prepare-commit-msg.sample": "prepare-commit-msg.sample",
+            "push-to-checkout.sample": "push-to-checkout.sample",
+            "update.sample": "update.sample"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "info": {
+        "author": "",
+        "date": "info",
+        "path_author": "/.git/info",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "exclude": "exclude"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "logs": {
+        "author": "",
+        "date": "logs",
+        "path_author": "/.git/logs",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "HEAD": "HEAD"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "origin": {
+        "author": "",
+        "date": "origin",
+        "path_author": "/.git/logs/refs/remotes/origin",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "HEAD": "HEAD"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    },
+    "pack": {
+        "author": "",
+        "date": "pack",
+        "path_author": "/.git/objects/pack",
+        "path_resize": "webp-resize-2000",
+        "photos_description": {
+            "pack-d1b4d5f49d5ed4c8a39189f2bd0fc47f80c2c568.idx": "pack-d1b4d5f49d5ed4c8a39189f2bd0fc47f80c2c568.idx",
+            "pack-d1b4d5f49d5ed4c8a39189f2bd0fc47f80c2c568.pack": "pack-d1b4d5f49d5ed4c8a39189f2bd0fc47f80c2c568.pack"
+        },
+        "remark": "",
+        "thumbnail": "",
+        "title": ""
+    }
+}
